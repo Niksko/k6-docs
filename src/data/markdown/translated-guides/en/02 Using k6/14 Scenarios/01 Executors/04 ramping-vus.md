@@ -5,7 +5,7 @@ excerpt: 'A variable number of VUs execute as many iterations as possible for a 
 
 With the `ramping-vus` executor, a variable number of VUs executes as many iterations as possible for a specified amount of time.
 
-For a shortcut to this executor, use the [stages](/using-k6/options#stages) option.
+For a shortcut to this executor, use the [stages](/using-k6/k6-options/reference#stages) option.
 
 ## Options
 
